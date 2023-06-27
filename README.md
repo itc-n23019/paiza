@@ -1,2 +1,2 @@
 # paiza
-pythonの課題提出用
+paizaの課題提出用
