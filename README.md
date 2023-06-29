@@ -23,6 +23,6 @@ paizaの課題提出用
 
 ・[たれ目]()
 
-・[つり目]()
+・[つり目](https://github.com/itc-n23019/paiza/blob/main/turime.py)
 
-・[メガネ]()
+・[メガネ](https://github.com/itc-n23019/paiza/blob/main/megane.py)
