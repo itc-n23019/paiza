@@ -1,6 +1,8 @@
 # paiza
 paizaの課題提出用
 
+コードガールコレクション
+(https://github.com/itc-n23019/paiza/blob/main/Screenshot%20from%202023-06-29%2013-52-04.png)
 恋するハッカソン
 
 髪型
