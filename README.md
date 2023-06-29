@@ -31,3 +31,11 @@ paizaの課題提出用
 
 ・[sexy衣装](https://github.com/itc-n23019/paiza/blob/main/sexyisyou.py)
 
+スペシャル
+
+・[]()
+
+・[]()
+
+・[]()
+
