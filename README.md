@@ -19,9 +19,9 @@ paizaの課題提出用
 
 目
 
-・[普通目](https://github.com/itc-n23019/paiza/blob/main/hutuume.py)
+・[普通目]()
 
-・[たれ目]()
+・[たれ目](https://github.com/itc-n23019/paiza/blob/main/tareme.py)
 
 ・[つり目](https://github.com/itc-n23019/paiza/blob/main/turime.py)
 
