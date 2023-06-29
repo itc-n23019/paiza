@@ -9,4 +9,6 @@ paizaの課題提出用
 
 [ポニーテールセット](https://github.com/itc-n23019/paiza/blob/main/poni-te-ru.py)
 
-[ツインテール](https://github.com/itc-n23019/paiza/blob/main/tuinte-ru.py)
+[ツインテールセット](https://github.com/itc-n23019/paiza/blob/main/tuinte-ru.py)
+
+[おさげセット](https://github.com/itc-n23019/paiza/blob/main/osage.py)
