@@ -27,8 +27,7 @@ paizaの課題提出用
 
 服
 
-・[cute衣装]()
+・[cute衣装](https://github.com/itc-n23019/paiza/blob/main/cuteisyou.py)
 
-・[sexy衣装]()
+・[sexy衣装](https://github.com/itc-n23019/paiza/blob/main/sexyisyou.py)
 
-・[ニーソ]()
