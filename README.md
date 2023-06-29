@@ -3,6 +3,8 @@ paizaの課題提出用
 
 恋するハッカソン
 
+髪型
+
 ・[ショートヘアセット](https://github.com/itc-n23019/paiza/blob/main/syo-tohea.py)
 
 ・[ロングヘアセット](https://github.com/itc-n23019/paiza/blob/main/ronguhea.py)
@@ -11,4 +13,14 @@ paizaの課題提出用
 
 ・[ツインテールセット](https://github.com/itc-n23019/paiza/blob/main/tuinte-ru.py)
 
-・[おさげセット](https://github.com/itc-n23019/paiza/blob/main/osage.py)
+・[おさげ](https://github.com/itc-n23019/paiza/blob/main/osage.py)
+
+目
+
+・[普通目]()
+
+・[たれ目]()
+
+・[つり目]()
+
+・[メガネ]()
