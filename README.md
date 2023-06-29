@@ -24,3 +24,10 @@ paizaの課題提出用
 ・[つり目](https://github.com/itc-n23019/paiza/blob/main/turime.py)
 
 ・[メガネ](https://github.com/itc-n23019/paiza/blob/main/megane.py)
+
+服
+・[cute衣装]()
+
+・[sexy衣装]()
+
+・[ニーソ]()
