@@ -33,7 +33,7 @@ paizaの課題提出用
 
 スペシャル
 
-・[]()
+・[水着](https://github.com/itc-n23019/paiza/blob/main/mizugi.py)
 
 ・[]()
 
