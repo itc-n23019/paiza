@@ -17,7 +17,7 @@ paizaの課題提出用
 
 目
 
-・[普通目]()
+・[普通目](https://github.com/itc-n23019/paiza/blob/main/hutuume.py)
 
 ・[たれ目]()
 
