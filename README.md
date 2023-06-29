@@ -1,14 +1,14 @@
 # paiza
 paizaの課題提出用
 
-[恋するハッカソン](https://paiza.jp/poh/hatsukoi/mypage)
+恋するハッカソン
 
-[ショートヘアセット](https://github.com/itc-n23019/paiza/blob/main/syo-tohea.py)
+・[ショートヘアセット](https://github.com/itc-n23019/paiza/blob/main/syo-tohea.py)
 
-[ロングヘアセット](https://github.com/itc-n23019/paiza/blob/main/ronguhea.py)
+・[ロングヘアセット](https://github.com/itc-n23019/paiza/blob/main/ronguhea.py)
 
-[ポニーテールセット](https://github.com/itc-n23019/paiza/blob/main/poni-te-ru.py)
+・[ポニーテールセット](https://github.com/itc-n23019/paiza/blob/main/poni-te-ru.py)
 
-[ツインテールセット](https://github.com/itc-n23019/paiza/blob/main/tuinte-ru.py)
+・[ツインテールセット](https://github.com/itc-n23019/paiza/blob/main/tuinte-ru.py)
 
-[おさげセット](https://github.com/itc-n23019/paiza/blob/main/osage.py)
+・[おさげセット](https://github.com/itc-n23019/paiza/blob/main/osage.py)
